@@ -1,0 +1,4 @@
+.kt-header__topbar-item .btn.btn-primary, .kt-header__topbar-item .btn.btn-primary:active{
+    background-color: transparent!important;
+    box-shadow: none;
+}
